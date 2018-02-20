@@ -25,3 +25,15 @@ https://github.com/mattzzw/Arduino-mpu6050
 arduino servo :
 
 https://www.arduino.cc/en/Reference/ServoWrite
+
+
+
+
+
+Learning about dictionary in python:
+
+https://www.programiz.com/python-programming/dictionary
+
+Python file access - write values to a .csv file:
+
+http://stanford.edu/~mgorkove/cgi-bin/rpython_tutorials/Writing_Data_to_a_CSV_With_Python.php
