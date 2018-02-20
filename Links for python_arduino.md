@@ -22,3 +22,6 @@ Python arduino GUI with MPU6050 6DOF IMU:
 
 https://github.com/mattzzw/Arduino-mpu6050
 
+arduino servo :
+
+https://www.arduino.cc/en/Reference/ServoWrite
