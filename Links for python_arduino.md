@@ -1,4 +1,4 @@
-For the tutorial in python refer to the python_basics document in the doc folder.
+For the tutorial in python refer to the python_basics document.
 
 Python arduino LED control:
 
