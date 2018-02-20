@@ -1,4 +1,6 @@
-For the tutorial in python refer to the python_basics document.
+For the basic tutorial in python refer to the python_basics.pdf document.
+
+For the basic tutorial in arduino refer to the arduino_basics.pdf document.
 
 Python arduino LED control:
 
