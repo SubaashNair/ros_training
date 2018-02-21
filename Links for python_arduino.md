@@ -12,11 +12,11 @@ https://learn.adafruit.com/arduino-lesson-17-email-sending-movement-detector/pyt
 
 Python arduino LDR control:
 
-http://electronut.in/plotting-real-time-data-from-arduino-using-python/
+Refer analogRead serial program and serial_plot.py program
 
 Python arduino ultrasonic sensor data - graph plot:
 
-http://electronut.in/using-ultrasonic-distance-sensor-module-hc-sr04-with-an-arduino/
+Refer ultrasonic sensor program and serial_plot.py program
 
 Python arduino GUI with MPU6050 6DOF IMU:
 
@@ -37,3 +37,20 @@ https://www.programiz.com/python-programming/dictionary
 Python file access - write values to a .csv file:
 
 http://stanford.edu/~mgorkove/cgi-bin/rpython_tutorials/Writing_Data_to_a_CSV_With_Python.php
+
+
+python tutorials:
+
+https://www.programiz.com/python-programming 
+
+https://www.tutorialspoint.com/python/ 
+
+
+Arduino sensor interfacing sample codes:
+
+https://tkkrlab.nl/wiki/Arduino_37_sensors
+
+https://www.mysensors.org/
+
+
+
